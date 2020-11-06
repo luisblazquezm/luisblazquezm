@@ -14,8 +14,8 @@ I am Luis, a 22 year old computer science graduate.
 - 🔧: <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-%23269539.svg?&style=for-the-badge&logo=NGINX&logoColor=white" />
 
 ## 🚀 Some stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandalfran&layout=compact&hide=Ada,Makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-  ![GandalFran's github stats](https://github-readme-stats.vercel.app/api?username=gandalfran&count_private=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisblazquezm&layout=compact&hide=Ada,Makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+  ![luisblazquezm's github stats](https://github-readme-stats.vercel.app/api?username=luisblazquezm&count_private=true)
 
 ## 📫 How to contact me
 
