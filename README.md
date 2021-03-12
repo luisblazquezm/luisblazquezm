@@ -15,7 +15,6 @@ I am Luis, a 22 year old computer science graduate.
 
 ## 🚀 Some stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisblazquezm&layout=compact&hide=Ada,Makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api?username=luisblazquezm&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
 
   ![luisblazquezm's github stats](https://github-readme-stats.vercel.app/api?username=luisblazquezm&count_private=true&show_icons=true&include_all_commits=true)
 
