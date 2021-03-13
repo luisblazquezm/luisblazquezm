@@ -22,7 +22,7 @@ This is my technology stack badges, including different technologies, programmin
   <img width="460" height="300" src="https://github.com/luisblazquezm/luisblazquezm/blob/master/imployed_architecture.jpg">
 </p>
 
-- **Twico**: This is is the final project for one of the subjects in the computer science master's degree consisting on a set of subsystems to aggregate information from newsitems, Twitter and OpenData sources, for the creation of a dashboard to serve a summary of the COVID pandemic, using different technologies.
+- **Twico**: This is is the final project for one of the subjects in the computer science master's degree consisting on a set of subsystems to aggregate information from newsitems, Twitter and OpenData sources, for the creation of a dashboard to serve a summary of the COVID pandemic, using different technologies. <a href="https://github.com/luisblazquezm/TwiCo">Take a look</a>!
 <p align="center">
   <img width="480" height="180" src="https://github.com/luisblazquezm/TwiCo/blob/master/soa-web-app/vue-web/public/img/architecture.png">
 </p>
