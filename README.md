@@ -17,7 +17,7 @@ This is my technology stack badges, including different technologies, programmin
 
 ## 🎯 Personal projects
 
-- **Imployed**: This is my final degree project, consisting on a series of subsystems (data ingest, storage, NLP processing, chatbot NLU model and web development) forming the architecture to create a platform capable of recommending job offers and online courses based on the knowledge, skills and preferences of the user through an interactional conversation with a chatbot.This application was built following the MERN stack, along with other technologies like Python, Celery, Redis, ETL structure and Rasa (an open-source technologie used to create a NLU chatbot model from scratch), among others.
+- **Imployed**: This is my final degree project, consisting on a series of subsystems (data ingest, storage, NLP processing, chatbot NLU model and web development) forming the architecture to create a platform capable of recommending job offers and online courses based on the knowledge, skills and preferences of the user through an interactional conversation with a chatbot.This application was built following the MERN stack, along with other technologies like Python, Celery, Redis, ETL structure and Rasa (an open-source technology used to create a NLU chatbot model from scratch), among others.
 <p align="center">
   <img width="460" height="300" src="https://github.com/luisblazquezm/luisblazquezm/blob/master/imployed_architecture.jpg">
 </p>
