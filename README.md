@@ -4,7 +4,7 @@ I am Luis, a 22 year old computer science graduate from Salamanca, Spain. I do t
 
 ## 👨‍🎓 About Me
 - 📚 Studying a computer science master's degree at the University of Salamanca.
-- 💼 Working as a researcher in the area of artificial intelligence and machine learning, and fullstack developer at BISITE Research Group.
+- 💼 Working as a researcher in multiple areas of the IT part, also as a fullstack developer at BISITE Research Group.
 - 🌱 Currently deepening my knowledge in data science.
 
 ## 🛠 My tech stack
