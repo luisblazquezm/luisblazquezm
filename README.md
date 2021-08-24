@@ -1,6 +1,6 @@
 # Hey there! I'm Luis
 
-I am Luis, a 22 year old computer science graduate from Salamanca, Spain. I do things related to Frontend and Backend development and my interests include Data Science, specifically those related to Natural Language Processing (NLP) 🧠 and Natural Language Understanding (NLU) 🤖.
+I am Luis, a 23 year old computer science graduate from Salamanca, Spain. I do things related to Frontend and Backend development and my interests include Data Science, specifically those related to Natural Language Processing (NLP) 🧠 and Natural Language Understanding (NLU) 🤖.
 
 ## 👨‍🎓 About Me
 - 📚 Studying a computer science master's degree at the University of Salamanca.
